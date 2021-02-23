@@ -2,8 +2,8 @@
 I make some things here😄 
 
 <p>▶️ Front-end</p>
-▶️ Back-end
-▶️ PostgreSQL (sometimes😜)
+<p>▶️ Back-end</p>
+<p>▶️ PostgreSQL (sometimes😜)</p>
 
 <!--
 **karolsujeta/karolsujeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
