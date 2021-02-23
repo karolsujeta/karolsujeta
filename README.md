@@ -1,9 +1,9 @@
 ### Hi there 👋
 I make some things here😄 
 
-<p>▶️ Front-end</p>
-<p>▶️ Back-end</p>
-<p>▶️ PostgreSQL (sometimes😜)</p>
+<span>▶️ Front-end</span>
+<span>▶️ Back-end</span>
+<span>▶️ PostgreSQL (sometimes😜)</span>
 
 <!--
 **karolsujeta/karolsujeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
