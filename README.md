@@ -1,7 +1,7 @@
 ### Hi there 👋
 I make some things here😄 
 
-▶️ Front-end
+<p>▶️ Front-end</p>
 ▶️ Back-end
 ▶️ PostgreSQL (sometimes😜)
 
