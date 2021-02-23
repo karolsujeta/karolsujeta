@@ -1,8 +1,8 @@
 ### Hi there 👋
 I make some things here😄 
 
-▶️ Front-end 
-▶️ Back-end 
+▶️ Front-end
+▶️ Back-end
 ▶️ PostgreSQL (sometimes😜)
 
 <!--
